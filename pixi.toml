@@ -11,6 +11,9 @@ platforms = ["linux-64"]
 [dependencies]
 jupyter = ">=1.0.0,<1.1"
 parsl = ">=2024.7.15,<2024.8"
+quacc = ">=0.2.7,<0.3"
+tblite = ">=0.3.0,<0.4"
+ase = ">=3.23.0,<3.24"
 
 [system-requirements]
 linux = "4.18"
